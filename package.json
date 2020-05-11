@@ -1,0 +1,23 @@
+{
+  "name": "calculate-percentages",
+  "version": "0.1.0",
+  "description": "A lightweight math utility to easily calculate percentages",
+  "keywords": [
+    "percent",
+    "percentage",
+    "calculate",
+    "math",
+    "utility",
+    "difference",
+    "discount",
+    "extensions"
+  ],
+  "main": "index.js",
+  "author": "Brian Swank",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bswank/calculate-percentages.git"
+  },
+  "homepage": "https://github.com/bswank/calculate-percentages#readme"
+}
