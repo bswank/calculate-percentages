@@ -72,6 +72,14 @@ percentage.extension(90, 100, 200) // 190
 percentage.extension(90, 100, 200, { verbose: true }) // 190 is the 90% extension from 100 to 200
 ```
 
+### Options
+
+The last argument of any method is an optional `options` object.
+
+| Option    | Default | Use                                                        |
+| --------- | ------- | ---------------------------------------------------------- |
+| `verbose` | `false` | Returns the value in a plain English statement for context |
+
 ## License
 
 MIT
