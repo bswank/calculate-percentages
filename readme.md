@@ -4,8 +4,7 @@
 
 ## Notes
 
-- Based on [php-percentages](https://github.com/mattiasgeniar/php-percentages) by [Mattias Geniar](https://github.com/mattiasgeniar).
-- WIP; tests coming soon
+- Based on [php-percentages](https://github.com/mattiasgeniar/php-percentages) by [Mattias Geniar](https://github.com/mattiasgeniar)
 
 ## Installation
 
