@@ -1,5 +1,7 @@
 # calculate-percentages
 
+NOTE: This branch contains no tests and is reserved for a video I made on testing node.
+
 `calculate-percentages` is a small utility that helps to calculate discounts, percentage changes, partial values, extensions, etc.
 
 ## Notes
