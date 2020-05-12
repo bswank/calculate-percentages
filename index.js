@@ -59,7 +59,7 @@ const percentage = {
   differenceBetween,
   absoluteDifferenceBetween,
   calculate,
-  to,
+  of,
   extension,
 }
 
